@@ -2,6 +2,11 @@
 所有笔记可以通过wiki查看：<https://github.com/ming1016/study/wiki>
 
 # 更新
+* 增加App-启动提速实践和一些想法 <https://github.com/ming1016/study/wiki/App-启动提速实践和一些想法>
+* 增加了我为什么写了《跟戴铭学iOS编程》这本书<https://github.com/ming1016/study/wiki/我为什么写了《跟戴铭学iOS编程》这本书>
+* 增加了Apple 操作系统可执行文件 Mach-O <https://github.com/ming1016/study/wiki/Apple-操作系统可执行文件-Mach-O>
+* 增加如何对 iOS 启动阶段耗时进行分析：<https://github.com/ming1016/study/wiki/如何对-iOS-启动阶段耗时进行分析>
+* 增加iOS 开发舆图：<https://github.com/ming1016/study/wiki/iOS-开发舆图>
 * 增加深入剖析 JavaScriptCore：<https://github.com/ming1016/study/wiki/深入剖析-JavaScriptCore>
 * 增加读 SnapKit 和 Masonry 自动布局框架源码：<https://github.com/ming1016/study/wiki/读-SnapKit-和-Masonry-自动布局框架源码>
 * 增加Swift 项目中涉及到 JSONDecoder，网络请求，泛型协议式编程的一些记录和想法：<https://github.com/ming1016/study/wiki/Swift-项目中涉及到-JSONDecoder，网络请求，泛型协议式编程的一些记录和想法>
